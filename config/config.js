@@ -17,6 +17,6 @@ export default defineConfig({
     { path: '/fromDemo', component: '@/pages/fromDemo' },
     { path: '/fromValidator', component: '@/pages/fromValidator' },
     { path: '/fromTable', component: '@/pages/fromTable' },
-    { path: '/paginationDemo', component: '@/pages/paginationDemo' },
+    { path: '/paginationDemo', component: '@/pages/paginationDemo' }
   ],
 });
