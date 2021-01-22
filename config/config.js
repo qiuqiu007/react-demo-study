@@ -19,5 +19,6 @@ export default defineConfig({
     { path: '/fromTable', component: '@/pages/fromTable' },
     { path: '/paginationDemo', component: '@/pages/paginationDemo' },
     { path: '/useRefDemo', component: '@/pages/useRefDemo' },
+    { path: '/classAndFunction', component: '@/pages/classAndFunction/index' },
   ],
 });
